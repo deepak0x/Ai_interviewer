@@ -348,4 +348,4 @@ For support and questions:
 
 ---
 
-**Built by the CortexCoders Team**
+**Built with ❤️ by the CortexCoders Team**
