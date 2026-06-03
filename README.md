@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered platform for conducting live coding interviews with real-time code analysis, intelligent hints, and detailed performance reporting. Features separate **Admin Portal** and **Candidate Portal** with role-based access control.
 
-## 🎥 Demo Video
+## Demo Video
 
 [Watch the demo](https://drive.google.com/file/d/1vib79jHEsjISJBYp3sZTHqgO6Q4Oe7CR/view?usp=sharing)
 
