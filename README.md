@@ -6,7 +6,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 
 [Watch the demo](https://drive.google.com/file/d/1vib79jHEsjISJBYp3sZTHqgO6Q4Oe7CR/view?usp=sharing)
 
-## 🚀 Features
+## Features
 
 ### Dual Portal System
 - **Admin Portal**: AI interview dashboard with comprehensive analytics and reporting
@@ -37,7 +37,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - **Mobile Responsive**: Works on desktop, tablet, and mobile devices
 - **Auto-popup Chat**: AI responses automatically open in chat interface
 
-## 🏗️ Architecture
+## Architecture
 
 ### Backend (Node.js + Express)
 - **RESTful API**: RESTful endpoints for all operations
@@ -63,7 +63,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - **Test-based Analysis**: AI analysis based on test results
 - **Interview Assessment**: Complete performance evaluation
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Node.js 18+ 
@@ -141,7 +141,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
    - Backend API: http://localhost:5000
    - API Health Check: http://localhost:5000/api/health
 
-## 👥 User Accounts
+## User Accounts
 
 ### Pre-configured Users
 
@@ -158,7 +158,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - Role: Candidate
 - Access: Coding interview interface
 
-## 🎯 Usage Guide
+## Usage Guide
 
 ### For Candidates
 1. **Login**: Use one of the test candidate accounts
@@ -183,7 +183,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - **AI Assistance**: Progressive hints (max 3 per problem)
 - **Auto-progression**: Moves to next problem after 2 minutes of inactivity
 
-## 📊 Database Schema
+## Database Schema
 
 ### Collections
 - **users**: User accounts and profiles
@@ -199,7 +199,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - `system_message`: System notifications
 - `interview_completion`: Complete interview summary
 
-## 🔧 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/login` - User login (supports hardcoded users)
@@ -230,7 +230,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - `complete_interview_session` - Complete interview
 - `test_connection` - Test socket connectivity
 
-## 🎨 UI Components
+## UI Components
 
 ### Admin Portal
 - **AdminDashboard**: Main dashboard with analytics
@@ -245,7 +245,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - **TestResults**: Test execution results
 - **CodeEditor**: Monaco editor integration
 
-## 🔍 Key Features
+## Key Features
 
 ### CodeSage Chat
 - **Read-only Interface**: Candidates cannot send messages
@@ -268,7 +268,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - **Human-readable Summaries**: AI-generated performance assessments
 - **Candidate Comparison**: Side-by-side performance analysis
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Checklist
 - [ ] Set strong JWT secret
@@ -286,7 +286,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - Optimize Docker images
 - Configure load balancing
 
-## 🧪 Testing
+## Testing
 
 ### Manual Testing
 1. **Admin Login**: Test admin dashboard functionality
@@ -301,7 +301,7 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 - Complete interviews to generate test data
 - Check admin dashboard for data display
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -309,18 +309,18 @@ A comprehensive AI-powered platform for conducting live coding interviews with r
 4. Test thoroughly with both portals
 5. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
+## Support
 
 For support and questions:
 - Create an issue in the repository
 - Check the documentation
 - Contact the development team
 
-## 🔮 Roadmap
+## Roadmap
 
 ### Upcoming Features
 - [ ] Video interview support
@@ -333,19 +333,19 @@ For support and questions:
 - [ ] API rate limiting
 - [ ] Advanced security features
 
-## 📈 Recent Updates
+## Recent Updates
 
 ### Version 2.0 - Dual Portal System
-- ✅ Separated admin and candidate portals
-- ✅ Implemented role-based authentication
-- ✅ Added comprehensive AI interaction tracking
-- ✅ Created detailed reporting system
-- ✅ Integrated AI chat interface
-- ✅ Added real-time test execution
-- ✅ Implemented progressive hint system
-- ✅ Added interview session tracking
-- ✅ Created human-readable performance summaries
+- Separated admin and candidate portals
+- Implemented role-based authentication
+- Added comprehensive AI interaction tracking
+- Created detailed reporting system
+- Integrated AI chat interface
+- Added real-time test execution
+- Implemented progressive hint system
+- Added interview session tracking
+- Created human-readable performance summaries
 
 ---
 
-**Built with ❤️ by the CortexCoders Team**
+**Built by the CortexCoders Team**
